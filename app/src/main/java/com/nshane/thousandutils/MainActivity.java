@@ -9,6 +9,10 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
 
+    /**
+     * 一个简单的演示类
+     */
+
     private Button mBtnLess;
     private Button mBtnMore;
     private TextView mTvShow;
