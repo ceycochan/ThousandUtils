@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 
     /**
-     * 一个简单的演示类
+     * demo
      */
 
     private Button mBtnLess;
